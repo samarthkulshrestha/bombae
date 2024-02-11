@@ -3,12 +3,9 @@
 
 samarth kulshrestha
 
-![release version](https://img.shields.io/github/v/release/samarthkulshrestha/bombae?color=%23a039fa&include_prereleases&style=for-the-badge)
-![code quality](https://img.shields.io/codefactor/grade/github/samarthkulshrestha/bombae/main?style=for-the-badge)
 ![top language](https://img.shields.io/github/languages/top/samarthkulshrestha/bombae?color=%234877f7&style=for-the-badge)
 <br>
 ![license](https://img.shields.io/github/license/samarthkulshrestha/bombae?color=%23f2e85a&style=for-the-badge)
-![release date](https://img.shields.io/github/release-date-pre/samarthkulshrestha/bombae?color=%23f76ad4&style=for-the-badge)
 <br/><br/><br/>
 ![bombae logo](assets/bombae.png)
 <br/><br>
