@@ -4,7 +4,6 @@
 samarth kulshrestha
 
 ![top language](https://img.shields.io/github/languages/top/samarthkulshrestha/bombae?color=%234877f7&style=for-the-badge)
-<br>
 ![license](https://img.shields.io/github/license/samarthkulshrestha/bombae?color=%23f2e85a&style=for-the-badge)
 <br/><br/><br/>
 ![bombae logo](assets/bombae.png)
@@ -15,7 +14,7 @@ samarth kulshrestha
 
 **bombae** is a terminal minesweeper game, written in pascal.
 
-## Usage
+## Quick-Start
 
 + clone the repository
 ```console
@@ -32,6 +31,16 @@ $ fpc bombae.pas
 ```console
 $ ./bombae
 ```
+
+## Controls
+
+| key                                                 | description        |
+|-----------------------------------------------------|--------------------|
+| <kbd>h</kbd>,<kbd>j</kbd>,<kbd>k</kbd>,<kbd>l</kbd> | move cursor around |
+| <kbd>SPACE</kbd>                                    | open cell          |
+| <kbd>f</kbd>                                        | flag/unflag cell   |
+| <kbd>r</kbd>                                        | restart            |
+| <kbd>q</kbd>                                        | quit               |
 
 ## Contribute
 
